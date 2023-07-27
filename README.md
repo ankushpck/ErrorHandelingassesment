@@ -1,13 +1,13 @@
 # Error Handeling assesment
 This program demonstarte the error handling in solidity programming language.
 
-#Description
+# Description
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. In this program, we will show the error handling in solidity programming language. Error handling in Solidity involves techniques and constructs used to handle exceptional cases, validate inputs, and respond to errors or invalid conditions within smart contracts. We will show the error hadling using various statements like assert() , require() and revert(). We have taken a problem in this program and handled it using error handling technique.
 
-#Getting Started
+# Getting Started
 We will be using remix to do it.
 
-#Executing program
+# Executing program
 To run this program, we can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 Once we are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., errorHandling.sol).
 Copy and paste the following code into the file:
